@@ -1,0 +1,101 @@
+trimestre;nomebandeira;nomefuncao;produto;qtdcartoesemitidos;qtdcartoesativos
+20231;American Express;Crédito;Empresarial;26598;18382
+20211;American Express;Crédito;Intermediário;574163;348180
+20231;American Express;Crédito;Corporativo;68432;49995
+20221;American Express;Crédito;Empresarial;21948;16437
+20233;American Express;Crédito;Empresarial;27741;19039
+20201;American Express;Crédito;Platinum;466359;349194
+20224;American Express;Crédito;Intermediário;448882;346292
+20241;American Express;Crédito;Premium;550480;436443
+20221;American Express;Crédito;Intermediário;448255;334759
+20234;American Express;Crédito;Empresarial;27676;18805
+20213;Bandeira própria;Crédito;Básico Nacional;1938972;535612
+20202;Bandeira própria;Crédito;Outros;7230012;5121579
+20232;Bandeira própria;Crédito;Outros;13219439;3129080
+20243;Bandeira própria;Débito;Básico Nacional;22027;9333
+20213;Bandeira própria;Débito;Outros;1177660;504518
+20214;Bandeira própria;Pré-Pago;Outros;591217;246442
+20241;Elo;Crédito;Platinum;184620;96660
+20211;Elo;Crédito;Outros;239296;138035
+20243;Elo;Crédito;Platinum;137939;99959
+20211;Elo;Crédito;Corporativo;24106;13163
+20203;Elo;Crédito;Intermediário;2986762;1655127
+20233;Elo;Débito;Empresarial;989166;394867
+20213;Elo;Débito;Outros;6088;1741
+20202;Elo;Débito;Empresarial;711850;301075
+20202;Elo;Débito;Corporativo;1889;1
+20193;Elo;Débito;Outros;63499660;28883411
+20241;Elo;Pré-Pago;Premium;6726;0
+20233;Elo;Pré-Pago;Básico Internacional;43568008;5724418
+20202;Elo;Pré-Pago;Básico Internacional;4489992;2625958
+20232;Elo;Pré-Pago;Básico Nacional;4513867;6112
+20224;Hipercard;Crédito;Intermediário;411;20
+20211;MasterCard;Crédito;Premium;2197074;1785104
+20202;MasterCard;Crédito;Empresarial;2012146;1461916
+20212;MasterCard;Crédito;Outros;17649299;5982166
+20223;MasterCard;Crédito;Corporativo;166240;103685
+20211;MasterCard;Crédito;Platinum;10973927;9053834
+20203;MasterCard;Crédito;Básico Internacional;20760226;9960896
+20224;MasterCard;Crédito;Empresarial;5278900;2576262
+20223;MasterCard;Crédito;Intermediário;104214886;66217870
+20232;MasterCard;Crédito;Empresarial;6101597;2807026
+20212;MasterCard;Crédito;Platinum;11883963;9844024
+20191;MasterCard;Crédito;Intermediário;19457411;13376663
+20224;MasterCard;Crédito;Premium;4211446;3491300
+20222;MasterCard;Crédito;Outros;19881345;6499210
+20214;MasterCard;Crédito;Empresarial;4395443;2400889
+20222;MasterCard;Crédito;Corporativo;157499;96588
+20222;MasterCard;Crédito;Básico Internacional;69606309;23731876
+20211;MasterCard;Crédito;Empresarial;2786419;1776917
+20211;MasterCard;Débito;Básico Internacional;83088117;21554284
+20213;MasterCard;Débito;Platinum;864416;385714
+20191;MasterCard;Débito;Premium;211226;115589
+20223;MasterCard;Débito;Platinum;1120864;616523
+20234;MasterCard;Débito;Empresarial;1840152;431006
+20223;MasterCard;Débito;Intermediário;77811802;50283648
+20232;MasterCard;Débito;Básico Nacional;9474150;3352841
+20232;MasterCard;Débito;Empresarial;1734814;428364
+20242;MasterCard;Débito;Premium;650813;346575
+20224;MasterCard;Débito;Premium;511773;326873
+20214;MasterCard;Débito;Corporativo;3449;2273
+20231;MasterCard;Débito;Premium;546780;351392
+20212;MasterCard;Débito;Básico Internacional;46647110;19459945
+20194;MasterCard;Débito;Platinum;773058;414752
+20223;MasterCard;Pré-Pago;Empresarial;1326421;452900
+20192;MasterCard;Pré-Pago;Platinum;361529;104701
+20193;MasterCard;Pré-Pago;Básico Nacional;98943;22712
+20224;MasterCard;Pré-Pago;Empresarial;2282694;881260
+20202;MasterCard;Pré-Pago;Outros;13352572;2616902
+20231;MasterCard;Pré-Pago;Básico Internacional;220351;137812
+20243;MasterCard;Pré-Pago;Básico Nacional;2194556;84360
+20221;MasterCard;Pré-Pago;Empresarial;886509;330717
+20212;MasterCard;Pré-Pago;Platinum;3119733;1875773
+20223;MasterCard;Pré-Pago;Platinum;5466048;2976279
+20214;MasterCard;Pré-Pago;Básico Internacional;1102;734
+20241;Outras;Crédito;Básico Internacional;85387;72412
+20203;Outras;Débito;Outros;3483227;1879278
+20232;VISA;Crédito;Empresarial;3050384;1716709
+20191;VISA;Crédito;Platinum;5152635;3788951
+20232;VISA;Crédito;Intermediário;30269172;18566843
+20194;VISA;Crédito;Intermediário;7383819;5311727
+20243;VISA;Crédito;Empresarial;3240491;1793057
+20234;VISA;Crédito;Platinum;9842020;7221154
+20211;VISA;Crédito;Premium;1838391;1332423
+20232;VISA;Crédito;Platinum;9867175;7132484
+20211;VISA;Crédito;Empresarial;1614248;953555
+20192;VISA;Crédito;Intermediário;7135206;5194476
+20223;VISA;Crédito;Intermediário;31279964;21301976
+20244;VISA;Débito;Básico Internacional;187957535;47669279
+20212;VISA;Débito;Básico Internacional;116541954;39742042
+20192;VISA;Débito;Intermediário;1365888;844588
+20204;VISA;Débito;Básico Nacional;9258690;5167831
+20221;VISA;Débito;Platinum;1811479;1070345
+20222;VISA;Débito;Outros;937;132
+20193;VISA;Débito;Intermediário;1506131;883473
+20232;VISA;Débito;Básico Internacional;79081987;21886403
+20201;VISA;Débito;Básico Nacional;8995690;4317923
+20202;VISA;Débito;Empresarial;1561727;588688
+20202;VISA;Débito;Outros;208;87
+20243;VISA;Pré-Pago;Empresarial;1682123;559847
+20201;VISA;Pré-Pago;Empresarial;1418;1082
+20243;VISA;Pré-Pago;Intermediário;25781;448
