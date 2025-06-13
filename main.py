@@ -25,4 +25,4 @@ def run_etl(trimestre: str):
 
 
 if __name__ == "__main__":
-    run_etl("20191")
+    run_etl("20241")

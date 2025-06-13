@@ -1,0 +1,101 @@
+trimestre;nomebandeira;nomefuncao;produto;qtdcartoesemitidos;qtdcartoesativos
+20242;American Express;Crédito;Premium;537851;414197
+20243;American Express;Crédito;Premium;530392;416404
+20242;American Express;Crédito;Básico Nacional;35545;20900
+20244;American Express;Crédito;Corporativo;57735;43088
+20241;American Express;Crédito;Premium;550480;436443
+20243;American Express;Crédito;Básico Nacional;34407;24692
+20244;American Express;Pré-Pago;Platinum;4;2
+20242;Bandeira própria;Crédito;Outros;15772402;3740887
+20244;Bandeira própria;Crédito;Básico Nacional;8084943;1764309
+20242;Bandeira própria;Crédito;Intermediário;145807;30023
+20243;Bandeira própria;Débito;Básico Nacional;22027;9333
+20243;Bandeira própria;Pré-Pago;Outros;1079074;1031284
+20244;Bandeira própria;Pré-Pago;Outros;2212142;2151146
+20241;Elo;Crédito;Platinum;184620;96660
+20244;Elo;Crédito;Básico Nacional;5484756;3037307
+20243;Elo;Crédito;Platinum;137939;99959
+20244;Elo;Crédito;Básico Internacional;3465596;1939778
+20243;Elo;Crédito;Básico Nacional;5197738;2871691
+20242;Elo;Crédito;Empresarial;525980;341125
+20241;Elo;Crédito;Básico Internacional;4089756;2084406
+20243;Elo;Débito;Básico Internacional;658048;536200
+20244;Elo;Débito;Empresarial;1062155;352712
+20242;Elo;Débito;Básico Nacional;203348580;36332069
+20241;Elo;Pré-Pago;Premium;6726;0
+20242;Elo;Pré-Pago;Empresarial;176757;143810
+20243;Elo;Pré-Pago;Outros;2740171;2557481
+20243;Elo;Pré-Pago;Intermediário;18555762;102515
+20242;Elo;Pré-Pago;Básico Internacional;40379133;1650602
+20244;Elo;Pré-Pago;Outros;1883666;1316223
+20243;Hipercard;Crédito;Intermediário;396;15
+20241;Hipercard;Crédito;Intermediário;399;16
+20244;Hipercard;Crédito;Platinum;278021;259516
+20241;MasterCard;Crédito;Platinum;21693222;15370679
+20242;MasterCard;Crédito;Corporativo;11062331;2466186
+20243;MasterCard;Crédito;Corporativo;11852037;2754205
+20243;MasterCard;Crédito;Outros;4143927;984637
+20244;MasterCard;Crédito;Outros;4040464;931962
+20242;MasterCard;Crédito;Básico Nacional;29775876;4486343
+20241;MasterCard;Crédito;Outros;2929686;981822
+20242;MasterCard;Crédito;Premium;7613857;5548653
+20243;MasterCard;Crédito;Empresarial;7873579;3390685
+20242;MasterCard;Crédito;Intermediário;136396502;71611177
+20244;MasterCard;Débito;Outros;783350;185504
+20243;MasterCard;Débito;Empresarial;2107753;457575
+20244;MasterCard;Débito;Básico Nacional;410782;271764
+20242;MasterCard;Débito;Premium;650813;346575
+20243;MasterCard;Débito;Básico Internacional;41060223;12467529
+20241;MasterCard;Débito;Básico Internacional;41433963;13161685
+20243;MasterCard;Débito;Outros;741164;183730
+20242;MasterCard;Débito;Básico Nacional;427493;297327
+20244;MasterCard;Pré-Pago;Básico Internacional;3302363;655561
+20241;MasterCard;Pré-Pago;Intermediário;57818456;30607469
+20242;MasterCard;Pré-Pago;Platinum;9587399;4330983
+20241;MasterCard;Pré-Pago;Básico Internacional;5259728;387425
+20243;MasterCard;Pré-Pago;Básico Nacional;2194556;84360
+20242;MasterCard;Pré-Pago;Corporativo;3927035;2044984
+20241;MasterCard;Pré-Pago;Empresarial;3605035;863471
+20243;MasterCard;Pré-Pago;Outros;14129891;856989
+20241;MasterCard;Pré-Pago;Outros;11168979;689593
+20242;MasterCard;Pré-Pago;Premium;503101;196710
+20244;MasterCard;Pré-Pago;Corporativo;4046856;1763097
+20241;Outras;Crédito;Outros;1004105;183709
+20243;Outras;Crédito;Outros;1049958;236893
+20241;Outras;Crédito;Básico Internacional;85387;72412
+20244;Outras;Crédito;Básico Internacional;966527;430452
+20242;Outras;Crédito;Outros;1062531;246932
+20242;Outras;Débito;Outros;4113858;1644000
+20243;Outras;Débito;Outros;4127695;1666862
+20241;Outras;Débito;Corporativo;388910;33320
+20244;Outras;Débito;Corporativo;108715;108715
+20241;Outras;Débito;Outros;3926261;1535248
+20243;Outras;Débito;Empresarial;707;431
+20244;VISA;Crédito;Básico Nacional;23200919;9842018
+20242;VISA;Crédito;Corporativo;658358;365254
+20243;VISA;Crédito;Premium;9292242;6006114
+20242;VISA;Crédito;Básico Nacional;22839644;10253290
+20243;VISA;Crédito;Empresarial;3240491;1793057
+20241;VISA;Crédito;Premium;8056784;5344798
+20243;VISA;Crédito;Platinum;9706571;7033535
+20242;VISA;Crédito;Empresarial;3183425;1778337
+20241;VISA;Crédito;Platinum;9711714;7088327
+20244;VISA;Crédito;Básico Internacional;57978296;21323636
+20241;VISA;Crédito;Outros;2203028;1002354
+20243;VISA;Crédito;Intermediário;42668299;29348153
+20242;VISA;Crédito;Premium;8691690;5739904
+20244;VISA;Débito;Básico Internacional;187957535;47669279
+20243;VISA;Débito;Platinum;5829503;2968097
+20241;VISA;Débito;Empresarial;1822473;671176
+20243;VISA;Débito;Outros;101563;51352
+20243;VISA;Pré-Pago;Empresarial;1682123;559847
+20242;VISA;Pré-Pago;Intermediário;11326;259
+20243;VISA;Pré-Pago;Intermediário;25781;448
+20244;VISA;Pré-Pago;Básico Nacional;17611496;3641842
+20241;VISA;Pré-Pago;Corporativo;1745374;177742
+20242;VISA;Pré-Pago;Básico Internacional;68105009;14374131
+20242;VISA;Pré-Pago;Básico Nacional;16716665;3954387
+20244;VISA;Pré-Pago;Básico Internacional;83876762;16691826
+20241;VISA;Pré-Pago;Básico Internacional;38737541;14646677
+20242;VISA;Pré-Pago;Outros;26522361;7666478
+20241;VISA;Pré-Pago;Intermediário;4833;84
