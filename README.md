@@ -5,7 +5,7 @@ Este projeto realiza o processo de Extração, Transformação e Carga (ETL) dos
 
 # 📁 Estrutura do Projeto
 
-Bash
+```bat
 
 .
 ├── datasets/             # Dados salvos em CSV e SQLite
@@ -19,6 +19,7 @@ Bash
 ├── AnaliseEstatistica.ipynb # Novo notebook com análise estatística
 ├── main.py               # Script principal do ETL
 └── requirements.txt      # Dependências do projeto
+```
 # 🚀 Como Executar
 
 Instale as dependências:
